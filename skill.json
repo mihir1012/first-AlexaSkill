@@ -1,0 +1,46 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "alpha joker",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                },
+                {
+                    "name": "GetaHighFive",
+                    "slots": [],
+                    "samples": [
+                        "A high five",
+                        "High Five",
+                        "Give me A high Five"
+                    ]
+                },
+                {
+                    "name": "getfacts",
+                    "slots": [],
+                    "samples": [
+                        "alpha facts",
+                        "fact please",
+                        "fact",
+                        "give a face",
+                        "get me a fact"
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}
